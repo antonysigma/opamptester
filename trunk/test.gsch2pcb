@@ -1,0 +1,3 @@
+schematics test.sch
+elements-dir footprint
+output-name test
